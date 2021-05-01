@@ -1,1 +1,1 @@
-# Expense tracker from Udemy React Cource
+# Expense tracker from Udemy React cource
